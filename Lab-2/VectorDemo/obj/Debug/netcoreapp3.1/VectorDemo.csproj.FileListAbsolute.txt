@@ -1,0 +1,16 @@
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.exe
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.deps.json
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.runtimeconfig.json
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.runtimeconfig.dev.json
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.dll
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\VectorDemo.pdb
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\LinearAlgebra.dll
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\bin\Debug\netcoreapp3.1\LinearAlgebra.pdb
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.csproj.AssemblyReference.cache
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.AssemblyInfoInputs.cache
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.AssemblyInfo.cs
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.csproj.CoreCompileInputs.cache
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.csproj.CopyComplete
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.dll
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.pdb
+D:\Labs-BMSTU_3\Lab-2\VectorDemo\obj\Debug\netcoreapp3.1\VectorDemo.genruntimeconfig.cache
