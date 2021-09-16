@@ -7,11 +7,11 @@ namespace LinearAlgebra
 {
     public class MathVector : IMathVector
     {
-        private List<double> _list;
+        private double[] _list;
 
         public MathVector(IEnumerable<double> arr)
         {
-            this._list = arr.ToList();
+            this._list = arr.ToArray();
         }
 
         public double this[int i] 
@@ -28,7 +28,7 @@ namespace LinearAlgebra
 
         public int Dimensions 
         {
-            get { return _list.Count; }
+            get { return _list.Length; }
         }
 
         public double Length {
