@@ -14,6 +14,15 @@ namespace LinearAlgebra
             this._list = arr.ToArray();
         }
 
+        public MathVector(IMathVector vec)
+        {
+            _list = new double[vec.Dimensions];
+            for (int i = 0; i < _list.Length; i++)
+            {
+                _list[i] = vec[i];
+            }
+        }
+
         public double this[int i] 
         {
             get
@@ -72,6 +81,10 @@ namespace LinearAlgebra
             return new MathVector(_list.Select((x, inx) => x + vector[inx]));
         }
 
+        /// <summary>
+        /// Нахождение покомпонентной разности двух векторов
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public IMathVector Subtract(IMathVector vector)
         {
             return new MathVector(_list.Select((x, inx) => x + vector[inx]));
@@ -82,44 +95,113 @@ namespace LinearAlgebra
             return new MathVector(_list.Select(x => x + number));
         }
 
+        /// <summary>
+        /// Покомпонентное сложение векторов
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public static IMathVector operator + (MathVector vector1, MathVector vector2)
         {
             return vector1.Sum(vector2);
         }
 
+        /// <summary>
+        /// Покомпонентное сложение вектора с числом
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public static IMathVector operator +(MathVector vector1, double number)
         {
             return vector1.SumNumber(number);
         }
 
+        /// <summary>
+        /// Покомпонентная разность векторов
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public static IMathVector operator -(MathVector vector1, MathVector vector2)
         {
             return vector1.Subtract(vector2) ;
         }
 
+        /// <summary>
+        /// Покомпонентная разность вектора с числом
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public static IMathVector operator -(MathVector vector1, double number)
         {
             return vector1.SumNumber(-number);
         }
 
+        /// <summary>
+        /// Покомпонентное умножение векторов
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public static IMathVector operator *(MathVector vector1, MathVector vector2)
         {
             return vector1.Multiply(vector2);
         }
 
+        /// <summary>
+        /// Покомпонентное умножение вектора на число
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public static IMathVector operator *(MathVector vector1, double number)
         {
             return vector1.MultiplyNumber(number);
         }
 
+        /// <summary>
+        /// Покомпонентное деление вектора на число
+        /// </summary>
+        /// <returns>Новый экземпляр IMathVector</returns>
         public static IMathVector operator /(MathVector vector1, double number)
         {
+            if (number == 0)
+            {
+                throw new Exception("");
+            }
+
             return vector1.MultiplyNumber(1/number);
         }
 
+        /// <summary>
+        ///  Нахождение скалярного произведения двух векторов
+        /// </summary>
+        /// <returns>Значение скалярного произведения</returns>
         public static double operator %(MathVector vector1, MathVector vector2)
         {
             return vector1.ScalarMultiply(vector2);
+        }
+
+        public static bool operator ==(MathVector vec1, MathVector vec2)
+        {
+            if (vec1.Dimensions != vec2.Dimensions)
+                return false;
+
+            for(int i = 0; i < vec1.Dimensions; i++)
+            {
+                if (vec1[i] != vec2[i])
+                    return false;
+            }
+
+            return true;
+        }
+        public static bool operator !=(MathVector vec1, MathVector vec2)
+        {
+            if (vec1.Dimensions != vec2.Dimensions)
+                return true;
+
+            for (int i = 0; i < vec1.Dimensions; i++)
+            {
+                if (vec1[i] != vec2[i])
+                    return true;
+            }
+
+            return false;
+        }
+
+        public override bool Equals(object obj)
+        {
+            return this == (MathVector)obj;
         }
     }
 }
