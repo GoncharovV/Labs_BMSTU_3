@@ -49,9 +49,12 @@ namespace LinearAlgebra
 
         public double CalcDistance(IMathVector vector)
         {
+            if (this.Dimensions != vector.Dimensions)
+                throw new VectorDimensionsMismatchException();
+
             return Math.Sqrt(
                 _list.Select((x, inx) => Math.Pow(x - vector[inx], 2))
-                .Aggregate((acc, x) => acc + x)
+                    .Aggregate((acc, x) => acc + x)
             );
         }
 
@@ -62,22 +65,32 @@ namespace LinearAlgebra
 
         public IMathVector Multiply(IMathVector vector)
         {
+            if (this.Dimensions != vector.Dimensions)
+                throw new VectorDimensionsMismatchException ();
+      
+
             return new MathVector(_list.Select((x, inx) => x * vector[inx]));
-        }
+        }//
 
         public IMathVector MultiplyNumber(double number)
         {
             return new MathVector( _list.Select(x => x * number) );
-        }
+        }//
 
         public double ScalarMultiply(IMathVector vector)
         {
+            if (this.Dimensions != vector.Dimensions)
+                throw new VectorDimensionsMismatchException();
+
             return _list.Select((x, inx) => x * vector[inx])
                 .Aggregate((acc, x) => acc + x);
-        }
+        }//
 
         public IMathVector Sum(IMathVector vector)
         {
+            if (this.Dimensions != vector.Dimensions)
+                throw new VectorDimensionsMismatchException();
+
             return new MathVector(_list.Select((x, inx) => x + vector[inx]));
         }
 
@@ -87,6 +100,9 @@ namespace LinearAlgebra
         /// <returns>Новый экземпляр IMathVector</returns>
         public IMathVector Subtract(IMathVector vector)
         {
+            if (this.Dimensions != vector.Dimensions)
+                throw new VectorDimensionsMismatchException();
+
             return new MathVector(_list.Select((x, inx) => x + vector[inx]));
         }
 
@@ -157,7 +173,7 @@ namespace LinearAlgebra
         {
             if (number == 0)
             {
-                throw new Exception("");
+                throw new Exception("Zero Dvivision Error");
             }
 
             return vector1.MultiplyNumber(1/number);

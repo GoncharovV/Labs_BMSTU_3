@@ -34,7 +34,7 @@ namespace LinearAlgebra.Tests
         }
 
         [TestMethod()]
-        public void MultiplyrTest_NegativeVecto()
+        public void MultiplyrTest_NegativeVector()
         {
             MathVector vec1 = new MathVector(new double[] { -1, 0, -3 });
             MathVector vec2 = new MathVector(new double[] { 1, 2, 3 });
@@ -55,6 +55,18 @@ namespace LinearAlgebra.Tests
             MathVector actual = new MathVector(vec1.MultiplyNumber(number));
 
             Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void MultiplyNumberTest_NotEqual()
+        {
+            MathVector vec1 = new MathVector(new double[] { 1, 2, -3 });
+            double number = 2;
+            MathVector expected = new MathVector(new double[] { 1, 2, -3 });
+
+            MathVector actual = new MathVector(vec1.MultiplyNumber(number));
+
+            Assert.AreNotEqual(expected, actual);
         }
 
         [TestMethod()]
@@ -99,7 +111,7 @@ namespace LinearAlgebra.Tests
             MathVector vec1 = new MathVector(new double[] { 1, 2, -3 });
             MathVector vec2 = new MathVector(new double[] { 1, 1, 1 });
 
-            double expected = 1*1 + 2*1 + -3*1;
+            double expected = 1 * 1 + 2 * 1 + -3 * 1;
             double actual = vec1.ScalarMultiply(vec2);
 
             Assert.AreEqual(expected, actual);
@@ -115,6 +127,141 @@ namespace LinearAlgebra.Tests
             double actual = vec1.ScalarMultiply(vec2);
 
             Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void LenghtTest_General()
+        {
+            MathVector vec1 = new MathVector(new double[] { 1, 2, -3 });
+
+            double expected = Math.Sqrt(1 + 4 + 9);
+
+            Assert.AreEqual(expected, vec1.Length);
+
+        }
+
+        [TestMethod()]
+        public void LenghtTest_ZeroVector()
+        {
+            MathVector vec1 = new MathVector(new double[] { 0, 0, 0 });
+
+            double expected = Math.Sqrt(0);
+
+            Assert.AreEqual(expected, vec1.Length);
+
+        }
+
+        [TestMethod()]
+        public void LenghtTest_IdentityVector()
+        {
+            MathVector vec1 = new MathVector(new double[] { 1, 1, 1 });
+
+            double expected = Math.Sqrt(3);
+
+            Assert.AreEqual(expected, vec1.Length);
+
+        }
+
+        [TestMethod()]
+        public void LenghtTest_NegativeVector()
+        {
+            MathVector vec1 = new MathVector(new double[] { -1, -21, -31 });
+
+            double expected = Math.Sqrt(1 + 21*21 + 31*31);
+
+            Assert.AreEqual(expected, vec1.Length);
+
+        }
+
+        [TestMethod()]
+        public void CalcDistanceTest()
+        {
+
+        }
+
+        [TestMethod()]
+        public void SumTest_General()
+        {
+            MathVector vec1 = new MathVector(new double[] { -1, 0, -3 });
+            MathVector vec2 = new MathVector(new double[] { 1, 2, 3 });
+            MathVector expected = new MathVector(new double[] { 0, 2, 0 });
+
+            var actual = new MathVector(vec1.Sum(vec2));
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void SumTest_OneZeroVector()
+        {
+            MathVector vec1 = new MathVector(new double[] { 0, 0, 0 });
+            MathVector vec2 = new MathVector(new double[] { 1, 2, 3 });
+            MathVector expected = new MathVector(new double[] { 1, 2, 3 });
+
+            var actual = new MathVector(vec1.Sum(vec2));
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void SumTest_OneNegativeVector()
+        {
+            MathVector vec1 = new MathVector(new double[] { 0, 0, 0 });
+            MathVector vec2 = new MathVector(new double[] { -1, -2, -3 });
+            MathVector expected = new MathVector(new double[] { -1, -2, -3 });
+
+            var actual = new MathVector(vec1.Sum(vec2));
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void SumTest_TwoNegativeVectors()
+        {
+            MathVector vec1 = new MathVector(new double[] { -1, -2, -4 });
+            MathVector vec2 = new MathVector(new double[] { -10, -10, -10 });
+            MathVector expected = new MathVector(new double[] { -11, -12, -14 });
+
+            var actual = new MathVector(vec1.Sum(vec2));
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void SubtractTest()
+        {
+
+        }
+
+        [TestMethod()]
+        public void SumNumberTest()
+        {
+
+        }
+
+        [TestMethod()]
+        public void EqualsTest()
+        {
+            MathVector vec1 = new MathVector(new double[] { -1, -2, -4 });
+            MathVector vec2 = new MathVector(new double[] { -10, -10, -10 });
+
+            Assert.AreNotEqual(true, vec1.Equals(vec2));
+        }
+
+        public void EqualsTest_ZeroVectors()
+        {
+            MathVector vec1 = new MathVector(new double[] { 0, 0, 0 });
+            MathVector vec2 = new MathVector(new double[] { 0, 0, 0 });
+
+            Assert.AreEqual(true, vec1.Equals(vec2));
+        }
+
+        public void EqualsTest_DifferentSigns()
+        {
+            MathVector vec1 = new MathVector(new double[] { -1, -1, -1 });
+            MathVector vec2 = new MathVector(new double[] { 1, 1, 1 });
+
+            Assert.AreEqual(false, vec1.Equals(vec2));
         }
     }
 }
