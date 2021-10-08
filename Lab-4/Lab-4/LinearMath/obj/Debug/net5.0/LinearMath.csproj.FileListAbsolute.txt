@@ -1,0 +1,12 @@
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\bin\Debug\net5.0\LinearMath.deps.json
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\bin\Debug\net5.0\LinearMath.dll
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\bin\Debug\net5.0\ref\LinearMath.dll
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\bin\Debug\net5.0\LinearMath.pdb
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\LinearMath.csproj.AssemblyReference.cache
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\LinearMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\LinearMath.AssemblyInfoInputs.cache
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\LinearMath.AssemblyInfo.cs
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\LinearMath.csproj.CoreCompileInputs.cache
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\LinearMath.dll
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\ref\LinearMath.dll
+D:\Labs-BMSTU_3\Lab-4\Lab-4\LinearMath\obj\Debug\net5.0\LinearMath.pdb
