@@ -1,0 +1,11 @@
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\bin\Debug\Clustering.FileOperations.dll
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\bin\Debug\Clustering.FileOperations.pdb
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\bin\Debug\Clustering.dll
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\bin\Debug\LinearAlgebra.dll
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\bin\Debug\Clustering.pdb
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\bin\Debug\LinearAlgebra.pdb
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\obj\Debug\Clustering.FileOperations.csproj.AssemblyReference.cache
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\obj\Debug\Clustering.FileOperations.csproj.CoreCompileInputs.cache
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\obj\Debug\Clustering.FileOperations.csproj.CopyComplete
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\obj\Debug\Clustering.FileOperations.dll
+D:\Labs-BMSTU_3\Clustering\Clustering.FileOperations\obj\Debug\Clustering.FileOperations.pdb

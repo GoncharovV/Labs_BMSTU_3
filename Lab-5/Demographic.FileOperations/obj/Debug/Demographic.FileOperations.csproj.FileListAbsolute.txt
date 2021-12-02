@@ -1,0 +1,9 @@
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\obj\Debug\Demographic.FileOperations.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\obj\Debug\Demographic.FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\bin\Debug\Demographic.FileOperations.dll
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\bin\Debug\Demographic.FileOperations.pdb
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\bin\Debug\Demographic.dll
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\bin\Debug\Demographic.pdb
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\obj\Debug\Demographic.FileOperations.csproj.CopyComplete
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\obj\Debug\Demographic.FileOperations.dll
+C:\Users\Vadim\source\repos\Demographic\Demographic.FileOperations\obj\Debug\Demographic.FileOperations.pdb

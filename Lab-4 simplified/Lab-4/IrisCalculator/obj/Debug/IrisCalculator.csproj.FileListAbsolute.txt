@@ -1,0 +1,9 @@
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\bin\Debug\IrisCalculator.dll
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\bin\Debug\IrisCalculator.pdb
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\bin\Debug\LinearAlgebra.dll
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\bin\Debug\LinearAlgebra.pdb
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\obj\Debug\IrisCalculator.csproj.AssemblyReference.cache
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\obj\Debug\IrisCalculator.csproj.CoreCompileInputs.cache
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\obj\Debug\IrisCalculator.csproj.CopyComplete
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\obj\Debug\IrisCalculator.dll
+D:\Labs-BMSTU_3\Lab-4-simple\Lab-4\IrisCalculator\obj\Debug\IrisCalculator.pdb

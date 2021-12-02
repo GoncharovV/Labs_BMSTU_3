@@ -1,0 +1,5 @@
+D:\Labs-BMSTU_3\Clustering\LinearAlgebra\bin\Debug\LinearAlgebra.dll
+D:\Labs-BMSTU_3\Clustering\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+D:\Labs-BMSTU_3\Clustering\LinearAlgebra\obj\Debug\LinearAlgebra.csproj.CoreCompileInputs.cache
+D:\Labs-BMSTU_3\Clustering\LinearAlgebra\obj\Debug\LinearAlgebra.dll
+D:\Labs-BMSTU_3\Clustering\LinearAlgebra\obj\Debug\LinearAlgebra.pdb

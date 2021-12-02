@@ -1,0 +1,6 @@
+C:\Users\Vadim\source\repos\Demographic\Demographic\bin\Debug\Demographic.dll
+C:\Users\Vadim\source\repos\Demographic\Demographic\bin\Debug\Demographic.pdb
+C:\Users\Vadim\source\repos\Demographic\Demographic\obj\Debug\Demographic.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\Demographic\Demographic\obj\Debug\Demographic.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\Demographic\Demographic\obj\Debug\Demographic.dll
+C:\Users\Vadim\source\repos\Demographic\Demographic\obj\Debug\Demographic.pdb

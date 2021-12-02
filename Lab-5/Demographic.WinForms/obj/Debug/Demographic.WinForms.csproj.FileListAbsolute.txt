@@ -1,0 +1,15 @@
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\bin\Debug\Demographic.WinForms.exe.config
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\bin\Debug\Demographic.WinForms.exe
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\bin\Debug\Demographic.WinForms.pdb
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.Properties.Resources.resources
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.csproj.GenerateResource.cache
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.exe
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.pdb
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.Form1.resources
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\bin\Debug\Demographic.dll
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\bin\Debug\Demographic.FileOperations.dll
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\bin\Debug\Demographic.FileOperations.pdb
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\bin\Debug\Demographic.pdb
+C:\Users\Vadim\source\repos\Demographic\Demographic.WinForms\obj\Debug\Demographic.WinForms.csproj.CopyComplete

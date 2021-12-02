@@ -1,0 +1,9 @@
+D:\Labs-BMSTU_3\Clustering\Clustering\bin\Debug\Clustering.dll
+D:\Labs-BMSTU_3\Clustering\Clustering\bin\Debug\Clustering.pdb
+D:\Labs-BMSTU_3\Clustering\Clustering\bin\Debug\LinearAlgebra.dll
+D:\Labs-BMSTU_3\Clustering\Clustering\bin\Debug\LinearAlgebra.pdb
+D:\Labs-BMSTU_3\Clustering\Clustering\obj\Debug\Clustering.csproj.AssemblyReference.cache
+D:\Labs-BMSTU_3\Clustering\Clustering\obj\Debug\Clustering.csproj.CoreCompileInputs.cache
+D:\Labs-BMSTU_3\Clustering\Clustering\obj\Debug\Clustering.csproj.CopyComplete
+D:\Labs-BMSTU_3\Clustering\Clustering\obj\Debug\Clustering.dll
+D:\Labs-BMSTU_3\Clustering\Clustering\obj\Debug\Clustering.pdb

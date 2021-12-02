@@ -1,0 +1,17 @@
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\ClustersPresentation.exe.config
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\ClustersPresentation.exe
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\ClustersPresentation.pdb
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.csproj.AssemblyReference.cache
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.Form1.resources
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.Properties.Resources.resources
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.csproj.GenerateResource.cache
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.csproj.CoreCompileInputs.cache
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.exe
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.pdb
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\Clustering.dll
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\Clustering.FileOperations.dll
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\LinearAlgebra.dll
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\Clustering.FileOperations.pdb
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\Clustering.pdb
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\bin\Debug\LinearAlgebra.pdb
+D:\Labs-BMSTU_3\Clustering\ClustersPresentation\obj\Debug\ClustersPresentation.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.deps.json
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.json
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.dev.json
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseModels.dll
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseModels.pdb
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfo.cs
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CopyComplete
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.dll
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.pdb
+C:\Users\Vadim\source\repos\Doctors\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.genruntimeconfig.cache
