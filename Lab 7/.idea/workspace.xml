@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c39e58b-3d4f-418b-8eb8-4e5d9d14d5d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab-7/FileOpener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-7/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/.vs/Lab-6/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/.vs/Lab-6/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/.vs/Lab-6/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/.vs/Lab-6/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/Controllers/MetricsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/Controllers/MetricsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/bin/Debug/netcoreapp3.1/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/bin/Debug/netcoreapp3.1/Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/bin/Debug/netcoreapp3.1/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/bin/Debug/netcoreapp3.1/Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/Debug/netcoreapp3.1/Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/DatabaseContext.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/DatabaseContext.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/Debug/netcoreapp3.1/DatabaseContext.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/Debug/netcoreapp3.1/DatabaseContext.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/Debug/netcoreapp3.1/DatabaseContext.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/Debug/netcoreapp3.1/DatabaseContext.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseContext/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/DatabaseModels.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/DatabaseModels.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/Debug/netcoreapp3.1/DatabaseModels.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/Debug/netcoreapp3.1/DatabaseModels.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/DatabaseModels/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Presentation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/bin/Debug/netcoreapp3.1/Presentation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Debug/netcoreapp3.1/Presentation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Presentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/Presentation.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 2 var/Presentation/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/.vs/Doctors/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/.vs/Doctors/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/.vs/Doctors/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/.vs/Doctors/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Core/BuisnessTasks.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Core/BuisnessTasks.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/Debug/netcoreapp3.1/Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/Debug/netcoreapp3.1/Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/DatabaseContext.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/DatabaseContext.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/Debug/netcoreapp3.1/DatabaseContext.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/Debug/netcoreapp3.1/DatabaseContext.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseContext/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/DatabaseModels.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/DatabaseModels.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/Debug/netcoreapp3.1/DatabaseModels.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/Debug/netcoreapp3.1/DatabaseModels.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/Debug/netcoreapp3.1/DatabaseModels.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/Debug/netcoreapp3.1/DatabaseModels.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/DatabaseModels/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/Debug/netcoreapp3.1/Presentation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/Debug/netcoreapp3.1/Presentation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/Debug/netcoreapp3.1/Presentation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/Debug/netcoreapp3.1/Presentation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/Presentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/Presentation.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6 4 var/Doctors/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2207RbZ4SBk1eXhAp0Ytfu3EaPm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lab 7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c39e58b-3d4f-418b-8eb8-4e5d9d14d5d0" name="Changes" comment="" />
+      <created>1638962643716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638962643716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

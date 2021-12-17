@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dS54hUDyWYiF/cb8DdtAcBNpAYDDpmz9XIaDszU75YaaYGek42w4TNCxVRwIJhsL/kbmWRisOzPSVKIzqZrQ9w==",
+  "dgSpecHash": "+SFZIw2Fyq1J35KdwQNmXCQBPlVfxol1gH9ypmm5aQblkgklnUBSW1IbQzR/YgXSp+BPcnsOAGdfzZ8bRzfaEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vadim\\source\\repos\\Lab-6\\Presentation\\Presentation.csproj",
+  "projectFilePath": "D:\\Labs-BMSTU_3\\Lab-6 2 var\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vadim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vadim\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

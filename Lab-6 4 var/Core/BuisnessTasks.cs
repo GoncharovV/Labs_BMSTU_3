@@ -4,6 +4,7 @@ using System.Text;
 using DatabaseContext;
 using DatabaseModels;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace Core
@@ -24,7 +25,7 @@ namespace Core
         public string GetNameOfSpecialization(int id)
         {
             int doctorId = _context.Certificates.Find(id).DoctorId;
-            return _context.Doctors.Find(doctorId).Specialization.Name;
+            return _context.Doctors..Find(doctorId).Specialization.Name;
         }
 
         public DateTime GetLastCertificate(int id)

@@ -387,16 +387,16 @@ namespace Doctors
             // 
             // countDoctorsTb
             // 
-            this.countDoctorsTb.Location = new System.Drawing.Point(42, 524);
+            this.countDoctorsTb.Location = new System.Drawing.Point(26, 517);
             this.countDoctorsTb.Name = "countDoctorsTb";
-            this.countDoctorsTb.Size = new System.Drawing.Size(107, 23);
+            this.countDoctorsTb.Size = new System.Drawing.Size(80, 23);
             this.countDoctorsTb.TabIndex = 35;
             // 
             // countDoctors
             // 
-            this.countDoctors.Location = new System.Drawing.Point(158, 524);
+            this.countDoctors.Location = new System.Drawing.Point(112, 517);
             this.countDoctors.Name = "countDoctors";
-            this.countDoctors.Size = new System.Drawing.Size(230, 23);
+            this.countDoctors.Size = new System.Drawing.Size(196, 23);
             this.countDoctors.TabIndex = 36;
             this.countDoctors.Text = "Найти количество врачей";
             this.countDoctors.UseVisualStyleBackColor = true;
@@ -405,7 +405,7 @@ namespace Doctors
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(41, 506);
+            this.label12.Location = new System.Drawing.Point(25, 499);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(108, 15);
             this.label12.TabIndex = 37;
@@ -414,7 +414,7 @@ namespace Doctors
             // doctorsCountLabel
             // 
             this.doctorsCountLabel.AutoSize = true;
-            this.doctorsCountLabel.Location = new System.Drawing.Point(405, 527);
+            this.doctorsCountLabel.Location = new System.Drawing.Point(314, 520);
             this.doctorsCountLabel.Name = "doctorsCountLabel";
             this.doctorsCountLabel.Size = new System.Drawing.Size(12, 15);
             this.doctorsCountLabel.TabIndex = 38;
@@ -422,16 +422,16 @@ namespace Doctors
             // 
             // findSpecTb
             // 
-            this.findSpecTb.Location = new System.Drawing.Point(42, 582);
+            this.findSpecTb.Location = new System.Drawing.Point(388, 517);
             this.findSpecTb.Name = "findSpecTb";
-            this.findSpecTb.Size = new System.Drawing.Size(107, 23);
+            this.findSpecTb.Size = new System.Drawing.Size(72, 23);
             this.findSpecTb.TabIndex = 39;
             // 
             // findSpec
             // 
-            this.findSpec.Location = new System.Drawing.Point(158, 582);
+            this.findSpec.Location = new System.Drawing.Point(466, 517);
             this.findSpec.Name = "findSpec";
-            this.findSpec.Size = new System.Drawing.Size(230, 23);
+            this.findSpec.Size = new System.Drawing.Size(207, 23);
             this.findSpec.TabIndex = 40;
             this.findSpec.Text = "Найти название специализации";
             this.findSpec.UseVisualStyleBackColor = true;
@@ -440,7 +440,7 @@ namespace Doctors
             // findSpecLabel
             // 
             this.findSpecLabel.AutoSize = true;
-            this.findSpecLabel.Location = new System.Drawing.Point(405, 585);
+            this.findSpecLabel.Location = new System.Drawing.Point(684, 521);
             this.findSpecLabel.Name = "findSpecLabel";
             this.findSpecLabel.Size = new System.Drawing.Size(12, 15);
             this.findSpecLabel.TabIndex = 41;
@@ -449,7 +449,7 @@ namespace Doctors
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(43, 564);
+            this.label14.Location = new System.Drawing.Point(389, 499);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(93, 15);
             this.label14.TabIndex = 42;
@@ -457,16 +457,16 @@ namespace Doctors
             // 
             // cerDateTb
             // 
-            this.cerDateTb.Location = new System.Drawing.Point(43, 642);
+            this.cerDateTb.Location = new System.Drawing.Point(760, 517);
             this.cerDateTb.Name = "cerDateTb";
-            this.cerDateTb.Size = new System.Drawing.Size(107, 23);
+            this.cerDateTb.Size = new System.Drawing.Size(74, 23);
             this.cerDateTb.TabIndex = 43;
             // 
             // cerDate
             // 
-            this.cerDate.Location = new System.Drawing.Point(158, 641);
+            this.cerDate.Location = new System.Drawing.Point(840, 516);
             this.cerDate.Name = "cerDate";
-            this.cerDate.Size = new System.Drawing.Size(230, 23);
+            this.cerDate.Size = new System.Drawing.Size(218, 23);
             this.cerDate.TabIndex = 44;
             this.cerDate.Text = "Найти дату последнего сертификата";
             this.cerDate.UseVisualStyleBackColor = true;
@@ -475,7 +475,7 @@ namespace Doctors
             // cerDateLabel
             // 
             this.cerDateLabel.AutoSize = true;
-            this.cerDateLabel.Location = new System.Drawing.Point(405, 642);
+            this.cerDateLabel.Location = new System.Drawing.Point(1064, 520);
             this.cerDateLabel.Name = "cerDateLabel";
             this.cerDateLabel.Size = new System.Drawing.Size(12, 15);
             this.cerDateLabel.TabIndex = 45;
@@ -484,7 +484,7 @@ namespace Doctors
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(63, 624);
+            this.label15.Location = new System.Drawing.Point(770, 500);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(54, 15);
             this.label15.TabIndex = 46;
@@ -494,7 +494,7 @@ namespace Doctors
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1172, 715);
+            this.ClientSize = new System.Drawing.Size(1172, 620);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.cerDateLabel);
             this.Controls.Add(this.cerDate);

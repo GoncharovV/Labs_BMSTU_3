@@ -879,11 +879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vadim\\source\\repos\\Doctors\\DatabaseContext\\DatabaseContext.csproj",
+      "projectUniqueName": "D:\\Labs-BMSTU_3\\Lab-6 4 var\\DatabaseContext\\DatabaseContext.csproj",
       "projectName": "DatabaseContext",
-      "projectPath": "C:\\Users\\Vadim\\source\\repos\\Doctors\\DatabaseContext\\DatabaseContext.csproj",
+      "projectPath": "D:\\Labs-BMSTU_3\\Lab-6 4 var\\DatabaseContext\\DatabaseContext.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vadim\\source\\repos\\Doctors\\DatabaseContext\\obj\\",
+      "outputPath": "D:\\Labs-BMSTU_3\\Lab-6 4 var\\DatabaseContext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -904,8 +904,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Vadim\\source\\repos\\Doctors\\DatabaseModels\\DatabaseModels.csproj": {
-              "projectPath": "C:\\Users\\Vadim\\source\\repos\\Doctors\\DatabaseModels\\DatabaseModels.csproj"
+            "D:\\Labs-BMSTU_3\\Lab-6 4 var\\DatabaseModels\\DatabaseModels.csproj": {
+              "projectPath": "D:\\Labs-BMSTU_3\\Lab-6 4 var\\DatabaseModels\\DatabaseModels.csproj"
             }
           }
         }

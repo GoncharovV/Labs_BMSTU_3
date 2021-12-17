@@ -1,0 +1,12 @@
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\bin\Debug\netcoreapp3.1\DatabaseModels.deps.json
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\bin\Debug\netcoreapp3.1\DatabaseModels.dll
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\bin\Debug\netcoreapp3.1\DatabaseModels.pdb
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\obj\Debug\netcoreapp3.1\DatabaseModels.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\obj\Debug\netcoreapp3.1\DatabaseModels.AssemblyInfoInputs.cache
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\obj\Debug\netcoreapp3.1\DatabaseModels.AssemblyInfo.cs
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\obj\Debug\netcoreapp3.1\DatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\obj\Debug\netcoreapp3.1\DatabaseModels.dll
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\obj\Debug\netcoreapp3.1\DatabaseModels.pdb
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\bin\Debug\netcoreapp3.1\DatabaseModels.runtimeconfig.json
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\bin\Debug\netcoreapp3.1\DatabaseModels.runtimeconfig.dev.json
+C:\Users\Vadim\source\repos\Lab-6\DatabaseModels\obj\Debug\netcoreapp3.1\DatabaseModels.genruntimeconfig.cache
